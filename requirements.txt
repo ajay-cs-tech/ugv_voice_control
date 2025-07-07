@@ -1,0 +1,5 @@
+whisper
+pyaudio
+numpy
+requests
+soundfile
