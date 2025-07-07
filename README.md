@@ -32,7 +32,7 @@ Install Python packages:
 pip install -r requirements.txt
 
 ---
-
+```
 ## 🔧 Arduino Setup
 
 ### 🛠️ Hardware
