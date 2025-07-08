@@ -57,4 +57,4 @@ pip install -r requirements.txt
 Upload `voice_wifi.ino` using Arduino IDE.
 
 Your UGV will create a Wi-Fi hotspot named **UGV_ROBOT**.  
-Connect your laptop to that before running the Python script.
+Connect your laptop to that before running the Python script `voice_new4.py`.
